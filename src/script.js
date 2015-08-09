@@ -1,18 +1,7 @@
 var	nicks=[
-		'twitch/gamerlio',
-		'nomday.com/lio',
-		'Skynet',
-		'Bender',
-		'Sonny',
-		'Rosey',
-		'MCP',
-		'Tron',
-		'Johnny 5',
-		'Data',
-		'Agent Smith',
-		'C-3PO',
-		'R2D2',
-		'HAL 9000'
+		'Black People',
+		'White People',
+		'Press W if Team'
 	].concat(skinNames),
 	body=$('body'),
 	startGameDate,
